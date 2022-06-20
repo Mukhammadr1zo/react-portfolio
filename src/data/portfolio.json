@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/youtube.png",
+      "title": "YouTube in React",
+      "description": "React, JSX, Bootstrap",
+      "url": "https://youtube-by-me.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/bookshelter.png",
+      "title": "BookShelter",
+      "description": "React, JSX, Bootstrap",
+      "url": "https://katta-kutubxona.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/weather.webp",
+      "title": "Weather",
+      "description": "React, JSX, Bootstrap",
+      "url": "https://weeaather.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/films.jpg",
+      "title": "Films",
+      "description": "React, JSX, Bootstrap",
+      "url": "https://chotkiy-kinolar.netlify.app/"
+    }
+  ]
+}
