@@ -23,6 +23,12 @@
       "title": "Films",
       "description": "React, JSX, Bootstrap",
       "url": "https://chotkiy-kinolar.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/twitter.png",
+      "title": "Twitter",
+      "description": "React, JSX, Bootstrap",
+      "url": "https://twitter-by-me.netlify.app/"
     }
   ]
 }
