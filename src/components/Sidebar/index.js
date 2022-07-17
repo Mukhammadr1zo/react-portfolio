@@ -6,6 +6,7 @@ import {
   faGithub,
   faTelegram,
   faInstagram,
+  faReadme
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
@@ -35,6 +36,15 @@ const Sidebar = () => {
         </NavLink>
       </nav>
       <ul>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/15P7I-RUu3W-Xe9Z6WAdsynVkpO67eO2n/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faReadme} color="#4d4d4e"/>
+          </a>
+        </li>
         <li>
           <a
             href="https://www.linkedin.com/in/muhammadrizo-baxtiyorov/"
