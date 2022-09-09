@@ -1,33 +1,39 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/1/dtm.jpg",
+      "title": "DTM",
+      "description": "React, Bootstrap, MaterialUI, SASS",
+      "url": "https://bilimingni-sinab-kor.netlify.app/"
+    },
+    {
       "cover": "/portfolio/1/youtube.png",
       "title": "YouTube in React",
-      "description": "React, JSX, Bootstrap",
+      "description": "React, Bootstrap, MaterialUI, SASS",
       "url": "https://youtube-by-me.netlify.app/"
     },
     {
       "cover": "/portfolio/1/bookshelter.png",
       "title": "BookShelter",
-      "description": "React, JSX, Bootstrap",
+      "description": "React, Bootstrap, MaterialUI, SASS",
       "url": "https://katta-kutubxona.netlify.app/"
     },
     {
       "cover": "/portfolio/1/weather.webp",
       "title": "Weather",
-      "description": "React, JSX, Bootstrap",
+      "description": "React, Bootstrap, MaterialUI, SASS",
       "url": "https://weeaather.netlify.app/"
     },
     {
       "cover": "/portfolio/1/films.jpg",
       "title": "Films",
-      "description": "React, JSX, Bootstrap",
+      "description": "React, Bootstrap, MaterialUI, SASS",
       "url": "https://chotkiy-kinolar.netlify.app/"
     },
     {
       "cover": "/portfolio/1/twitter.png",
       "title": "Twitter",
-      "description": "React, JSX, Bootstrap",
+      "description": "React, Bootstrap, MaterialUI, SASS",
       "url": "https://twitter-by-me.netlify.app/"
     }
   ]
