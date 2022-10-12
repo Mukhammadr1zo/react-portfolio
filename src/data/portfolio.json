@@ -1,9 +1,21 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/1/eaturkish.png",
+      "title": "Eaturkish",
+      "description": "React, Bootstrap,Node.js, PSQL,  MaterialUI, SASS",
+      "url": "https://eaturk.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/pressa.png",
+      "title": "Pressa",
+      "description": "React, Bootstrap, Node.js, PSQL, MaterialUI, SASS",
+      "url": "https://presssa-front.netlify.app/"
+    },
+    {
       "cover": "/portfolio/1/dtm.jpg",
       "title": "DTM",
-      "description": "React, Bootstrap, MaterialUI, SASS",
+      "description": "React, Bootstrap, MaterialUI, Node.js, PSQL SASS",
       "url": "https://bilimingni-sinab-kor.netlify.app/"
     },
     {
@@ -15,19 +27,31 @@
     {
       "cover": "/portfolio/1/bookshelter.png",
       "title": "BookShelter",
-      "description": "React, Bootstrap, MaterialUI, SASS",
+      "description": "JS, Bootstrap, MaterialUI, SASS",
       "url": "https://katta-kutubxona.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/skillz.png",
+      "title": "Skillz",
+      "description": "Bootstrap, MaterialUI, SASS",
+      "url": "https://skillz-byme.netlify.app/"
     },
     {
       "cover": "/portfolio/1/weather.webp",
       "title": "Weather",
-      "description": "React, Bootstrap, MaterialUI, SASS",
+      "description": "JS, Bootstrap, MaterialUI, CSS",
       "url": "https://weeaather.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/todo.png",
+      "title": "Todos",
+      "description": "JS, Bootstrap",
+      "url": "https://best-todos.netlify.app/"
     },
     {
       "cover": "/portfolio/1/films.jpg",
       "title": "Films",
-      "description": "React, Bootstrap, MaterialUI, SASS",
+      "description": "JS, Bootstrap, MaterialUI, SASS",
       "url": "https://chotkiy-kinolar.netlify.app/"
     },
     {

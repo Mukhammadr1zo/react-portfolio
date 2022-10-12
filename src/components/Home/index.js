@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
-import LogoM from '../../assets/images/logo-M1.png'
+// import LogoM from '../../assets/images/logo-M.svg'
 import './index.scss'
 
 const Home = () => {
@@ -64,7 +64,7 @@ const Home = () => {
        
         <div className='logo-container'>
                     
-                    <img src={LogoM} alt="Logo"/>
+                    {/* <img src={LogoM} alt="Logo"/> */}
                 </div>
       </div>
 

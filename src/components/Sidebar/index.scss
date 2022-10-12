@@ -11,15 +11,15 @@
     display: block;
     padding: 8px 0;
 
-    .logo:hover path{
+    .logo_hover:hover {
       fill: #ffd700;
     }
 
     img {
       display: block;
       margin: 8px auto;
-      width: 40px;
-      height: 40px;
+      width: 60px;
+      height: 60px;
 
       &.sub-logo {
         width: 50px;
