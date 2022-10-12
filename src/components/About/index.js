@@ -33,15 +33,19 @@ const About = () => {
             />
           </h1>
           <p>
+            I’m a junior front-end developer looking for a new role in an
+            exciting company. I focus on writing accessible HTML, using modern
+            CSS practices and writing clean JavaScript. When writing JavaScript
+            code, I mostly use React, but I can adapt to whatever tools are
+            required. I’m based in Tashkent, Uzbekistan, but I’m happy working
+            remotely and have experience in remote teams. When I’m not coding,
+            you’ll find me outdoors.
+          </p>
+          <p align="LEFT">
             I'm very ambitious front-end developer looking for a role in
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
-          <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at the time.
-          </p>
-          
         </div>
 
         <div className="stage-cube-cont">
